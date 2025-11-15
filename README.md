@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abdelmalek Samim 👋
 
-<!--
-**Abdelmaleksamim/Abdelmaleksamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a web developer and technology enthusiast. I love working with JavaScript, React, Node.js, and building projects that help people.
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- React, React Native
+- Node.js, Express
+- MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [GEBI Online Store](https://abdelmaleksamim.github.io/GEBI/)
+- [School Presentation – Al-Kendi Technical High School](https://samimabdo2030.github.io/)
+
+## Contact
+- Email: abdelmaleksamim100@gmail.com
+- LinkedIn: (www.linkedin.com/in/abdelmalek-samim-b86187350)
