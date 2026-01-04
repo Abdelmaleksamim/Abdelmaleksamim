@@ -8,7 +8,7 @@ Full-stack web developer focused on building accessible, performant, and maintai
 
 I build clean, user-centered web experiences. I enjoy working across the stack — from crafting reusable UI components in React to designing RESTful APIs with Node.js. I value readable code, thoughtful architecture, and strong developer ergonomics.
 
-- Location: Tunisia
+- Location: Morocco
 - Email: [abdelmaleksamim100@gmail.com](mailto:abdelmaleksamim100@gmail.com)
 - LinkedIn: [Abdelmalek Samim](https://www.linkedin.com/in/abdelmalek-samim-b86187350)
 
